@@ -254,9 +254,9 @@ A: Use Twitter API v2 or Instagram Graph API for data collection, replace synthe
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@your-username](https://github.com/seshu-8)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email: seshubabukv1200@gmail.com
 
 ---
 
