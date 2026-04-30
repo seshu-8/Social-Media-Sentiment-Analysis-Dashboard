@@ -1,0 +1,51 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# .gitignore – Social Media Sentiment Analysis Dashboard
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Models (large binary files – re-generate locally)
+# models/*.pkl   ← uncomment this if you don't want to push models
+
+# Large data files
+# data/*.csv     ← comment out to push the dataset
+
+# Streamlit cache
+.streamlit/
+
+# Test artifacts
+*.log
+*.tmp

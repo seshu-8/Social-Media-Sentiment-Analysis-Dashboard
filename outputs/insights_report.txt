@@ -1,0 +1,59 @@
+
+====================================================================
+   SOCIAL MEDIA SENTIMENT ANALYSIS – BUSINESS INSIGHTS REPORT
+====================================================================
+
+OVERVIEW
+--------
+Total Posts Analyzed : 1500
+Positive Sentiment   : 487 posts  (32.5%)
+Negative Sentiment   : 484 posts  (32.3%)
+Neutral Sentiment    : 529 posts  (35.3%)
+
+BRAND INSIGHTS
+--------------
+Brand with most POSITIVE mentions : Apple
+Brand with most NEGATIVE mentions : Netflix
+
+PLATFORM BREAKDOWN
+------------------
+platform        sentiment
+Facebook        Negative     107
+                Positive      91
+                Neutral       90
+Google Reviews  Neutral      105
+                Positive     102
+                Negative     102
+Instagram       Neutral      120
+                Positive     101
+                Negative      81
+Reddit          Positive     109
+                Neutral       95
+                Negative      85
+Twitter         Neutral      119
+                Negative     109
+                Positive      84
+
+TOP BRANDS POSITIVE RATE
+------------------------
+brand
+Amazon       34.4
+Apple        37.3
+BigBasket    31.6
+Flipkart     35.0
+Myntra       30.8
+Netflix      31.8
+Samsung      31.7
+Swiggy       28.2
+Uber Eats    33.1
+Zomato       31.2
+
+RECOMMENDATIONS
+---------------
+1. Netflix should focus on improving customer support & delivery.
+2. Monitor spikes in negative sentiment for immediate crisis response.
+3. Amplify positive user posts in marketing campaigns.
+4. Use neutral posts to identify unanswered customer queries.
+5. Track weekly sentiment trends to measure campaign effectiveness.
+
+====================================================================
